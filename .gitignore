@@ -112,3 +112,6 @@ Thumbs.db
 .DS_Store
 .AppleDouble
 .LSOverride
+
+/.quarto/
+**/*.quarto_ipynb
