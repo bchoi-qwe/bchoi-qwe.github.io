@@ -2,9 +2,7 @@
 title: "About Me"
 ---
 
-Brandon Choi | Honours Bachelor of Commerce with Cooperative Education | Trading, Data Analytics, & Digital Finance
-
-I’m a second-generation Korean Canadian originally from Coquitlam, British Columbia, where I lived until moving to Alberta for university. Over the past few years, I’ve explored a range of areas in finance, but as I get closer to finishing my degree, I’ve become more focused on trading as a long-term career path. Moving to Alberta deepened my interest in energy markets, and my goal is to work on an energy trading or risk desk where I can combine market fundamentals, data, and disciplined decision-making. At the same time, I see these skills as transferable and would be excited to apply them to other commodities and markets as well.
+I’m Brandon Choi, a second-generation Korean Canadian from Coquitlam, British Columbia, and I moved to Alberta for university. Over the past few years, I’ve explored a range of areas in finance, but as I get closer to finishing my degree, I’ve become increasingly focused on trading as a long-term career path. Moving to Alberta deepened my interest in energy markets, and my goal is to work on an energy trading or risk desk where I can combine market fundamentals, data, and disciplined decision-making. At the same time, I see these skills as transferable and I’m excited to apply them across other commodities and markets as well.
 
 My most recent co-op has been in the utilities industry, where I worked as a Junior Analyst at 8760. In this role, I built and maintained financial models that pull data from multiple utility-provider portals, improved internal and client reporting accuracy, and supported ad hoc analysis. A big part of the work is translating market movement into clear insights through visuals and concise write-ups, helping clients understand cost drivers and risk exposure in Alberta’s power and natural gas markets.
 
